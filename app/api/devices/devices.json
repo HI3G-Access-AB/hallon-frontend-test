@@ -1,184 +1,171 @@
 [
   {
-    "id": "ZVzWNg1bNGOj6Cgt0WdbvQ==",
-    "model": "Galaxy Z Fold4 5G",
-    "brand": "Samsung",
-    "image": "https://assets.tre.se/images/se-webshop-device/samsung/galaxy-z-fold4/samsung-galaxy_fold4-closed-front-svart.png",
-    "slug": "galaxy-z-fold4-5g"
-  }, {
-    "id": "dAgTD01imANf6_lbBHgD7Q==",
-    "model": "Galaxy Z Flip4 5G",
-    "brand": "Samsung",
-    "image": "https://assets.tre.se/images/se-webshop-device/samsung/galaxy-z-flip4/samsung-galaxy_flip4-halfopen-front-lila.png",
-    "slug": "galaxy-z-flip4-5g"
-  }, {
-    "id": "xgij4cJEOBo1anJK7a72rA==",
-    "model": "Galaxy S22 5G",
-    "brand": "Samsung",
-    "image": "https://assets.tre.se/images/se-webshop-device/samsung/galaxy-s22/samsung_galaxy-s22_front-back_svart.png",
-    "slug": "galaxy-s22-5g"
-  }, {
-    "id": "vApJ84rAua2Q7pNlS_qwoQ==",
-    "model": "Galaxy S22 Ultra 5G",
-    "brand": "Samsung",
-    "image": "https://assets.tre.se/images/se-webshop-device/samsung/galaxy-s22-ultra/samsung_galaxy-s22-ultra_front-back_svart.png",
-    "slug": "galaxy-s22-ultra-5g"
-  }, {
-    "id": "JOcoDsa_MGlB1wFWWL7CxQ==",
-    "model": "Galaxy A53 5G",
-    "brand": "Samsung",
-    "image": "https://assets.tre.se/images/se-webshop-device/samsung/galaxy-a53/galaxy-a53-font-back-svart.png",
-    "slug": "galaxy-a53-5g"
-  }, {
-    "id": "aYD0_kJ4hJs2zLzT105k8g==",
-    "model": "Galaxy A13",
-    "brand": "Samsung",
-    "image": "https://assets.tre.se/images/se-webshop-device/samsung/galaxy-a13/galaxy-a13-front-svart.png",
-    "slug": "galaxy-a13"
-  }, {
-    "id": "9QWdPmzZfjnsa-av7FY4wg==",
-    "model": "Galaxy A33 5G",
-    "brand": "Samsung",
-    "image": "https://assets.tre.se/images/se-webshop-device/samsung/galaxy-a33/galaxy-a33-front-svart.png",
-    "slug": "galaxy-a33-5g"
-  }, {
-    "id": "dpu_ILyDuwo6bU7vqF0zBA==",
-    "model": "Galaxy XCover 5",
-    "brand": "Samsung",
-    "image": "https://assets.tre.se/images/se-webshop-device/samsung/galaxy-xcover-5/samsung-galaxy-xcover-5-framsida-svart.png",
-    "slug": "galaxy-xcover-5"
-  }, {
-    "id": "RDmoDjVLi7xy-wcSxHg-dQ==",
-    "model": "iPhone 14 Plus",
+    "id": "9347",
+    "model": "iPhone 18 Pro",
     "brand": "Apple",
-    "image": "https://assets.tre.se/images/se-webshop-device/apple/iphone-14-plus/apple-iphone-14-plus-frontback-svart.png",
-    "slug": "iphone-14-plus"
+    "image": "https://www.hallon.se/cms/media/qvcahfdq/01-iphone_18_pro_burgundy.jpg",
+    "slug": "iphone-18-pro"
   }, {
-    "id": "sxN42qgA2O_50Pi-Hynerw==",
-    "model": "iPhone 14",
+    "id": "9348",
+    "model": "iPhone 18 Pro Max",
     "brand": "Apple",
-    "image": "https://assets.tre.se/images/se-webshop-device/apple/iphone-14/apple-iphone-14-frontback-bla%CC%8A.png",
-    "slug": "iphone-14"
+    "image": "https://www.hallon.se/cms/media/3sepktnb/apple-iphone-18-pro-max-burgundy-semtag-frontback.jpg",
+    "slug": "iphone-18-pro-max"
   }, {
-    "id": "zCNi_r6gLZPwH8CCbvji3w==",
-    "model": "iPhone 14 Pro",
+    "id": "9379",
+    "model": "iPhone Duo",
     "brand": "Apple",
-    "image": "https://assets.tre.se/images/se-webshop-device/apple/iphone-14-pro/apple-iphone-14-pro-frontback-djuplila.png",
-    "slug": "iphone-14-pro"
+    "image": "https://www.hallon.se/cms/media/fquhpxlf/01-iphone_duo_night_sky.png",
+    "slug": "iphone-duo"
   }, {
-    "id": "NRzStdIuqBU3tAbrHrO1Gg==",
-    "model": "iPhone 14 Pro Max",
+    "id": "7160",
+    "model": "iPhone 17",
     "brand": "Apple",
-    "image":"https://assets.tre.se/images/se-webshop-device/apple/iphone-14-pro-max/apple-iphone-14-pro-max-frontback-svart.png",
-    "slug": "iphone-14-pro-max"
+    "image": "https://www.hallon.se/cms/media/v2sb0otr/01-iphone17-black-backfront.jpg",
+    "slug": "iphone-17"
   }, {
-    "id": "LF6MOR-7S6VQ6lTvvoyH7w==",
-    "model": "iPhone 13",
+    "id": "7273",
+    "model": "iPhone 17 Pro Max",
     "brand": "Apple",
-    "image": "https://assets.tre.se/images/se-webshop-device/apple/iphone-13/svart/apple_iphone_13_svart_2-up.png",
-    "slug": "iphone-13"
+    "image": "https://www.hallon.se/cms/media/jtoj2zje/iphone-17-pro-max-frontback-orange.jpg",
+    "slug": "iphone-17-pro-max"
   }, {
-    "id": "jWrPVSRQyHBQQd6kFOuWRA==",    
-    "model": "iPhone 12",
+    "id": "8826",
+    "model": "iPhone 17e",
     "brand": "Apple",
-    "image": "https://assets.tre.se/images/se-webshop-device/apple/iphone-12/apple-iphone-12-framsida-baksida-svart.png",
-    "slug": "iphone-12"
+    "image": "https://www.hallon.se/cms/media/jvfhlrjq/iphone_17e_white_pdp_image_position_1__se-se.jpg",
+    "slug": "iphone-17e"
   }, {
-    "id": "q_P0Ko1899r2d0GZdmcShw==",    
-    "model": "iPhone SE 5G 2022",
+    "id": "5791",
+    "model": "iPhone 16",
     "brand": "Apple",
-    "image": "https://assets.tre.se/images/se-webshop-device/apple/iphone-se-3rd-gen/apple-iphone_se_3rd_gen-frontback-stja%CC%88rnglans.png",    
-    "slug": "iphone-se-5g-2022"
+    "image": "https://www.hallon.se/cms/media/or5jlzwg/01-iphone16-backfront-blue.png",
+    "slug": "iphone-16"
   }, {
-    "id": "UPswdWy8jAcpjP2sT0ifug==",
-    "model": "iPhone 11",
-    "brand": "Apple",
-    "image": "https://assets.tre.se/images/device/apple/iphone-11/apple-iphone-11-framsida-svart.png",
-    "slug": "iphone-11"
+    "id": "8631",
+    "model": "Galaxy S26 Ultra",
+    "brand": "Samsung",
+    "image": "https://www.hallon.se/cms/media/dvhdk1sk/01-galaxys26ultra-front-black.jpg",
+    "slug": "samsung-galaxy-s26-ultra"
   }, {
-    "id": "2BXL9ymE7WgYUAKr6vMirg==",    
-    "model": "12T Pro",
-    "brand": "Xiaomi",
-    "image": "https://assets.tre.se/images/se-webshop-device/xiaomi/xiaomi-12t-pro/xiaomi-12t-pro-front-svart.png",
-    "slug": "12t-pro"
+    "id": "8627",
+    "model": "Galaxy S26 Plus",
+    "brand": "Samsung",
+    "image": "https://www.hallon.se/cms/media/pofe4vnr/samsung-galaxy-s26-plus-frontback-lila.jpg",
+    "slug": "samsung-galaxy-s26-plus"
   }, {
-    "id": "Hz9lceF2R7LpuVUabMANZw==",    
-    "model": "12 5G",
-    "brand": "Xiaomi",
-    "image": "https://assets.tre.se/images/se-webshop-device/xiaomi/xiaomi-12/xiaomi-12-front-gra%CC%8A.png",
-    "slug": "12-5g"
+    "id": "8626",
+    "model": "Galaxy S26",
+    "brand": "Samsung",
+    "image": "https://www.hallon.se/cms/media/ljadoa0w/01-galaxys26-frontback-blue.jpg",
+    "slug": "samsung-galaxy-s26"
   }, {
-    "id": "9SonpIJhToF-9LSda1QJ2Q==",    
-    "model": "Redmi 10C",
-    "brand": "Xiaomi",
-    "image": "https://assets.tre.se/images/se-webshop-device/xiaomi/xiaomi-redmi-10c/xiaomi-redmi-10c-front-svart.png",
-    "slug": "redmi-10c"
+    "id": "9327",
+    "model": "Galaxy S26 FE",
+    "brand": "Samsung",
+    "image": "https://www.hallon.se/cms/media/lsqnlqhy/samsung-galaxy-s26fe-backfront-semtag-graphite.jpg",
+    "slug": "samsung-galaxy-s26-fe"
   }, {
-    "id": "ob0rsM6eoa2SAhWF61VOHA==",
-    "model": "Redmi 10 5G",
-    "brand": "Xiaomi",
-    "image": "https://assets.tre.se/images/se-webshop-device/xiaomi/xiaomi-redmi-10-5g/xiaomi-redmi-10-5g-front-svart.png",
-    "slug": "redmi-10-5g"
+    "id": "6237",
+    "model": "Galaxy S25",
+    "brand": "Samsung",
+    "image": "https://www.hallon.se/cms/media/33hf4kaw/01-samsung-s25-backfront-iceblue.png",
+    "slug": "samsung-galaxy-s25"
   }, {
-    "id": "U7os1CnKNCEp57VEjFmvew==",
-    "model": "Redmi Note 11 Pro 5G",
-    "brand": "Xiaomi",
-    "image": "https://assets.tre.se/images/se-webshop-device/xiaomi/xiaomi-redmi-note-11-pro-5g/xiaomi-redmi_note_11_pro-front-gra%CC%8A.png",
-    "slug": "redmi-note-11-pro-5g"
+    "id": "9195",
+    "model": "Galaxy Z Fold8",
+    "brand": "Samsung",
+    "image": "https://www.hallon.se/cms/media/sdjjygw1/02-samsung-zfold8-ultra-frontopen-black.jpg",
+    "slug": "samsung-galaxy-zfold-8"
   }, {
-    "id": "R_mtdrOhtkJqZpGIe5NqYA==",
-    "model": "11T Pro",
-    "brand": "Xiaomi",
-    "image": "https://assets.tre.se/images/se-webshop-device/xiaomi/xiaomi-11t-pro/xiaomi-11t-pro_front_black.png",
-    "slug": "11t-pro"
+    "id": "9205",
+    "model": "Galaxy Z Fold8 Ultra",
+    "brand": "Samsung",
+    "image": "https://www.hallon.se/cms/media/sxwhsxeg/01-samsung-zfold8-ultra-frontback-black.jpg",
+    "slug": "samsung-galaxy-z-fold8-ultra"
   }, {
-    "id": "zbj4HfgkEUyCPPKAGETdGA==",
-    "model": "Xperia 5 IV",
-    "brand": "Sony",
-    "image": "https://assets.tre.se/images/se-webshop-device/sony/sony-xperia-5-iv/sony_xperia_5_iv-linkbuds.png",
-    "slug": "xperia-5-iv"
+    "id": "9194",
+    "model": "Galaxy Z Flip8",
+    "brand": "Samsung",
+    "image": "https://www.hallon.se/cms/media/jd4bntbj/01-zflip8_backfront_graphite.jpg",
+    "slug": "samsung-galaxy-zflip-8"
   }, {
-    "id": "26Mz6xfa0PPW972lFrDqWg==",
-    "model": "Xperia 10 IV",
-    "brand": "Sony",
-    "image": "https://assets.tre.se/images/se-webshop-device/sony/sony-xperia-10-iv/sony-xperia-10-iv-front-svart.png",
-    "slug": "xperia-10-iv"
+    "id": "8906",
+    "model": "Galaxy A57",
+    "brand": "Samsung",
+    "image": "https://www.hallon.se/cms/media/eizp3stb/01-samsung-galaxy-a57-frontback-ljusbla.jpg",
+    "slug": "samsung-galaxy-a57"
   }, {
-    "id": "gvq86zuT_8XjEiU3lbLBWQ==",
-    "model": "Xperia 1 IV",
-    "brand": "Sony",
-    "image": "https://assets.tre.se/images/se-webshop-device/sony/sony-xperia-1-iv/sony-xperia-1-iv-frontback-vit.png",
-    "slug": "xperia-1-iv"
+    "id": "8904",
+    "model": "Galaxy A37",
+    "brand": "Samsung",
+    "image": "https://www.hallon.se/cms/media/jgibrp4x/01-samsung-galaxy-a37-frontback-grey.jpg",
+    "slug": "samsung-galaxy-a37"
   }, {
-    "id": "R370sezISB9I6fA8maty0Q==",
-    "model": "Xperia 5 III",
-    "brand": "Sony",
-    "image": "https://assets.tre.se/images/se-webshop-device/sony/sony-xperia-5-III/xperia-5-III_front_black.png",
-    "slug": "xperia-5-iii"
+    "id": "7057",
+    "model": "Galaxy A17",
+    "brand": "Samsung",
+    "image": "https://www.hallon.se/cms/media/hdrnpykv/02samsung-galaxy-a17-frontback-svart.jpg",
+    "slug": "samsung-galaxy-a17"
   }, {
-    "id": "IYsGBNVR-2brE8uJbHbXKg==",
-    "model": "Xperia 1 III",
-    "brand": "Sony",
-    "image": "https://assets.tre.se/images/se-webshop-device/sony/sony-xperia-1-iii/sony-xperia-1-iii-framsida-svart.png",
-    "slug": "xperia-1-iii"
+    "id": "9225",
+    "model": "Pixel 11",
+    "brand": "Google",
+    "image": "https://www.hallon.se/cms/media/bfgbzw3g/01-google-pixel-11-black-backfront.jpg",
+    "slug": "google-pixel-11"
   }, {
-    "id": "pXJtEDffPrvFtnDTOJmSeA==",
-    "model": "6881",
-    "brand": "Doro",
-    "image": "https://assets.tre.se/images/se-webshop-device/doro/doro-6881/doro-6881-frontopen-svart.png",
-    "slug": "doro-6881"
+    "id": "9234",
+    "model": "Pixel 11 Pro",
+    "brand": "Google",
+    "image": "https://www.hallon.se/cms/media/pmhh1az2/01-google-pixel-11-pro-black-backfront.jpg",
+    "slug": "google-pixel-11-pro"
   }, {
-    "id": "ltCn-Xq5wYTlSXZ1u-Jhaw==",
-    "model": "5861",
-    "brand": "Doro",
-    "image": "https://assets.tre.se/images/se-webshop-device/doro/doro-5861/doro-5861-standfront-svart.png",
-    "slug": "doro-5861"
+    "id": "9247",
+    "model": "Pixel 11 Pro XL",
+    "brand": "Google",
+    "image": "https://www.hallon.se/cms/media/ycvdu303/01-google-pixel-11pro-xl-frontback-green.jpg",
+    "slug": "google-pixel-11-pro-xl"
   }, {
-    "id": "YkRSopcLlB5vjzHnLt4ScA==",
-    "model": "8110",
-    "brand": "Doro",
-    "image": "https://assets.tre.se/images/se-webshop-device/doro/doro-8110/doro8110-fram-laddstativ.png",
-    "slug": "doro-8110"
+    "id": "7039",
+    "model": "Pixel 10 Pro XL",
+    "brand": "Google",
+    "image": "https://www.hallon.se/cms/media/xkebau2x/02-googlepro10-black-front.png",
+    "slug": "google-pixel-10-pro-xl"
+  }, {
+    "id": "8822",
+    "model": "Pixel 10A",
+    "brand": "Google",
+    "image": "https://www.hallon.se/cms/media/mo3dhbwk/google-pixel-10a-frontback-semtag-svart.jpg",
+    "slug": "google-pixel-10a"
+  }, {
+    "id": "9607",
+    "model": "Find X10",
+    "brand": "OPPO",
+    "image": "https://www.hallon.se/cms/media/4qucqw2i/oppo-x10-backfront-semtag.webp",
+    "slug": "oppo-find-x10"
+  }, {
+    "id": "9609",
+    "model": "Find X10 Pro Max",
+    "brand": "OPPO",
+    "image": "https://www.hallon.se/cms/media/rehhxbth/oppo-find-x10-pro-max-back-backfront-semtag.webp",
+    "slug": "oppo-find-x10-pro-max"
+  }, {
+    "id": "9440",
+    "model": "Signature",
+    "brand": "Motorola",
+    "image": "https://www.hallon.se/cms/media/qckkgosk/motorola-signature-frontback-svart.jpg",
+    "slug": "motorola-signature"
+  }, {
+    "id": "9425",
+    "model": "Edge 70 Fusion",
+    "brand": "Motorola",
+    "image": "https://www.hallon.se/cms/media/wu5m21bl/motorla-edge-70-fusion.jpg",
+    "slug": "motorola-edge-70-fusion"
+  }, {
+    "id": "9433",
+    "model": "G37",
+    "brand": "Motorola",
+    "image": "https://www.hallon.se/cms/media/pj1b4x4l/motorola-g37-front.jpg",
+    "slug": "motorola-g37"
   }
-  
 ]
