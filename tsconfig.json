@@ -1,0 +1,45 @@
+{
+  "include": [
+    ".next/types/**/*.ts",
+    "./app/**/*",
+    "./components/**/*",
+    "./lib/**/*",
+    ".next/dev/types/**/*.ts"
+  ],
+  "compilerOptions": {
+    "module": "esnext",
+    "target": "esnext",
+    "jsx": "react-jsx",
+    "lib": [
+      "dom",
+      "esnext"
+    ],
+    "strict": true,
+    "noEmit": true,
+    "isolatedModules": true,
+    "esModuleInterop": true,
+    "noUnusedLocals": false,
+    "allowJs": true,
+    "declaration": true,
+    "sourceMap": true,
+    "typeRoots": [
+      "./types",
+      "node_modules/@types"
+    ],
+    "resolveJsonModule": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "incremental": true,
+    "moduleResolution": "bundler",
+    "plugins": [
+      {
+        "name": "next"
+      }
+    ]
+  },
+  "exclude": [
+    "node_modules",
+    "public",
+    ".cache"
+  ]
+}
